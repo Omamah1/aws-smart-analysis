@@ -28,6 +28,9 @@
 ## 📸 عرض النظام (Screenshots)
 
 
+<img width="1024" height="1024" alt="11flse11flse11fl" src="https://github.com/user-attachments/assets/962e3350-a47a-42ec-9eb7-8de6822d5407" />
+
+
 ![Main Dashboard](رابط_الصورة_هنا)<img width="1324" height="855" alt="Screenshot 2026-02-16 014404" src="https://github.com/user-attachments/assets/33a96717-339e-43c8-b5f6-c3ae560a4a74" />
 
 ![Upload Section](رابط_الصورة_هنا)<img width="1338" height="856" alt="Screenshot 2026-02-16 014546" src="https://github.com/user-attachments/assets/3c91c032-5e6f-4d4f-b07a-514301eceae4" />
@@ -44,3 +47,4 @@
 ---
 
 **Note:** تم تصميم هذا المشروع لإثبات القدرة على ربط الخدمات السحابية المختلفة وبناء نظام ذكاء اصطناعي متكامل يتبع أفضل الممارسات الأمنية والهندسية.
+
